@@ -16,4 +16,4 @@ def birthdayCakeCandles(candles):
 
 
 candles=[18,90,90,13,90,75,90,8,90,43]
-birthdayCakeCandles(candles)
+print(birthdayCakeCandles(candles))
